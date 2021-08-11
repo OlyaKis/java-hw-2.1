@@ -1,7 +1,0 @@
-class BonusService {
-    public static void cost (int args) {
-        long cost = 20;
-        long amount = cost / 20;
-        long bonusService = amount;
-    }
-}
